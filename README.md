@@ -36,7 +36,3 @@ ETL/ELT, Data Modeling, Version Control, Data Visualization, Machine Learning
 - LinkedIn: [linkedin.com/in/rosariodawryn](https://www.linkedin.com/in/rosariodawryn/)  
 - Email: darosari@syr.edu
 
-### 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/rosariodawryn/)
-- Email: darosari4spam@gmail.com
