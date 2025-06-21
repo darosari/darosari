@@ -37,6 +37,10 @@ ETL/ELT, Data Modeling, Version Control, Data Visualization, Machine Learning
   A machine learning project that predicts the presence of diseases based on patient symptoms using classification models like Random Forest and XGBoost. Demonstrates collaborative data preprocessing, model training, and evaluation.  
   [View Project →](https://github.com/darosari/Disease_Prediction_Classifier)
 
+- **MTA Delay Rideshare Prediction**  
+  A regression-based machine learning project that forecasts hourly rideshare demand in NYC using MTA subway delay reports, daily ridership, and weather data. Combines EDA, feature engineering, and XGBoost modeling to uncover transit-disruption effects on Uber usage.  
+  [View Project →](https://github.com/darosari/MTA_Delay_Rideshare_Prediction)
+
 - **WDAS SQL Project**  
   A normalized SQL database with a defined ERD, multi-table joins, and complex query logic for data retrieval.  
   [View Project →](https://github.com/darosari/wdas-sql-database)
