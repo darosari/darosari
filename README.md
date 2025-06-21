@@ -4,7 +4,7 @@ M.S. in Applied Data Science from Syracuse University
 B.S. in Information Management & Technology
 Based in NYC | Open to Data Analyst and Data Engineering roles  
 
-I work on building data pipelines, dashboards, and predictive models to drive informed decision-making. My technical toolkit includes Python, SQL, and cloud-based analytics platforms. I'm passionate about uncovering insights from data and delivering scalable solutions in real-world applications.
+I build data pipelines, dashboards, and predictive models to drive informed decision-making. My technical toolkit includes Python, SQL, and cloud-based analytics platforms. I'm passionate about turning raw data into actionable insights and delivering scalable solutions for real-world problems.
 
 ## Technical Skills
 
@@ -27,6 +27,11 @@ ETL/ELT, Data Modeling, Version Control, Data Visualization, Machine Learning
 
 - **SportBusy**  
   Live sports insights platform providing real-time stats, visualizations, and fan engagement metrics.
+  
+- **Superstore Sales Dashboard**  
+  Interactive Tableau dashboard that visualizes regional sales, profit trends, and product performance using the Superstore dataset. Emphasizes user-centered design and insight-driven storytelling.  
+  [View Project →](https://github.com/darosari/Superstore-Sales-Dashboard)
+
 
 - **WDAS SQL Project**  
   A normalized SQL database with a defined ERD, multi-table joins, and complex query logic for data retrieval.
