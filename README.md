@@ -32,6 +32,9 @@ ETL/ELT, Data Modeling, Version Control, Data Visualization, Machine Learning
   Interactive Tableau dashboard that visualizes regional sales, profit trends, and product performance using the Superstore dataset. Emphasizes user-centered design and insight-driven storytelling.  
   [View Project →](https://github.com/darosari/Superstore-Sales-Dashboard)
 
+- **Disease Prediction Classifier**  
+  A machine learning project that predicts the presence of diseases based on patient symptoms using classification models like Random Forest and XGBoost. Demonstrates collaborative data preprocessing, model training, and evaluation.  
+  [View Project →](https://github.com/darosari/Disease_Prediction_Classifier)
 
 - **WDAS SQL Project**  
   A normalized SQL database with a defined ERD, multi-table joins, and complex query logic for data retrieval.
