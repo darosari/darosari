@@ -26,8 +26,9 @@ ETL/ELT, Data Modeling, Version Control, Data Visualization, Machine Learning
 ## Featured Projects
 
 - **SportBusy**  
-  Live sports insights platform providing real-time stats, visualizations, and fan engagement metrics.
-  
+  Live sports insights platform providing real-time stats, visualizations, and fan engagement metrics.  
+  [View Project →](https://github.com/darosari/sportbusy-website)
+
 - **Superstore Sales Dashboard**  
   Interactive Tableau dashboard that visualizes regional sales, profit trends, and product performance using the Superstore dataset. Emphasizes user-centered design and insight-driven storytelling.  
   [View Project →](https://github.com/darosari/Superstore-Sales-Dashboard)
@@ -37,7 +38,8 @@ ETL/ELT, Data Modeling, Version Control, Data Visualization, Machine Learning
   [View Project →](https://github.com/darosari/Disease_Prediction_Classifier)
 
 - **WDAS SQL Project**  
-  A normalized SQL database with a defined ERD, multi-table joins, and complex query logic for data retrieval.
+  A normalized SQL database with a defined ERD, multi-table joins, and complex query logic for data retrieval.  
+  [View Project →](https://github.com/darosari/wdas-sql-database)
 
 ## Contact
 
