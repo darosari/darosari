@@ -41,6 +41,10 @@ ETL/ELT, Data Modeling, Version Control, Data Visualization, Machine Learning
   A regression-based machine learning project that forecasts hourly rideshare demand in NYC using MTA subway delay reports, daily ridership, and weather data. Combines EDA, feature engineering, and XGBoost modeling to uncover transit-disruption effects on Uber usage.  
   [View Project →](https://github.com/darosari/MTA_Delay_Rideshare_Prediction)
 
+- **Sentiment Analysis of Movie Reviews**  
+  A natural language processing (NLP) project that classifies movie review sentiments using TF-IDF and Bag-of-Words feature engineering with Logistic Regression and Naive Bayes models. Includes interpretability analysis, error evaluation, and a structured modeling pipeline.  
+  [View Project →](https://github.com/darosari/Sentiment_Analysis_Movie_Reviews)
+
 - **WDAS SQL Project**  
   A normalized SQL database with a defined ERD, multi-table joins, and complex query logic for data retrieval.  
   [View Project →](https://github.com/darosari/wdas-sql-database)
